@@ -1,0 +1,42 @@
+.slider{
+	margin:0px auto;
+	width:100%;
+	position: relative;
+}
+.img-box img{
+	width:100%
+}
+.btn{
+	border:none;
+	outline:none;
+	background:#0a3d62;
+	font-size:15px;
+	cursor:pointer;
+	color:red;
+    margin:1px auto;
+	}
+.btn:hover{
+	background:blue;
+}
+#status {
+  width: 90%;
+  max-width: 500px;
+  text-align: center;
+  padding: 10px;
+  margin: 0 auto;
+  border-radius: 8px;
+}
+#status.success {
+  margin-top: 20px;
+  background-color: rgba(6, 58, 71, 0.89);
+  animation: status 7s ease forwards;
+  color:yellow;
+  border-radius: 20px;
+}
+#status.error {
+  margin-top: 20px;
+  background-color: rgba(6, 58, 71, 0.89);
+  color:yellow;
+  animation: status 7s ease forwards;
+  border-radius: 20px;
+}
