@@ -1046,7 +1046,7 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
 .chair{width:300px;height:413px;float:left;}
 @media only screen and (min-width: 750px) and (max-width: 992px) { 
 .prantik {display:none;}
-.row666 {display:none;}
+.link{display:none;}
 .picture6{
 	    width: 697px;
     height: 449px 
@@ -1055,7 +1055,7 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
 }
 @media only screen and (min-width: 702px) and (max-width: 750px) { 
 .prantik {display:none;}
-.row666 {display:none;}
+.link {display:none;}
 .picture6{
 	    width: 650px;
 		height: 330px;
@@ -1065,7 +1065,7 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
 }
 @media only screen and (min-width: 602px) and (max-width: 702px) { 
 .prantik {display:none;}
-.row666 {display:none;}
+.link{display:none;}
 .picture6{
 	    width: 550px;
 		height: 230px;
@@ -1075,7 +1075,7 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
 }
 @media only screen and (min-width: 500px) and (max-width: 602px) { 
 .prantik {display:none;}
-.row666 {display:none;}
+.link{display:none;}
 .picture6{
 	    width: 450px;
 		height: 230px;
@@ -1085,7 +1085,7 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
 }
 @media only screen and (min-width: 400px) and (max-width: 602px) { 
 .prantik {display:none;}
-.row666 {display:none;}
+.link{display:none;}
 .picture6{
 	    width: 350px;
 		height: 230px;
@@ -1095,11 +1095,12 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
 }
 @media only screen and (min-width: 300px) and (max-width: 400px) { 
 .prantik {display:none;}
-.row666 {display:none;}
+.link{display:none;}
 .picture6{
-	    width: 250px;
-		height: 230px;
+	    width: 310px;
+		height: 270px;
 }
-.pic{height:250px}
-
+.pic{height:290px}
+.babostha{padding-top:180px}
+.face{width:310px}
 }
