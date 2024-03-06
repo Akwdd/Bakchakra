@@ -9,14 +9,32 @@
 .btn{
 	border:none;
 	outline:none;
-	background:#0a3d62;
-	font-size:15px;
+	background:linear-gradient(119deg, #1ff7c0 0%, #ba740f 100%);
+	font-size:25px;
 	cursor:pointer;
-	color:red;
+	color:blue;
     margin:1px auto;
 	}
 .btn:hover{
-	background:blue;
+	background:green;
+}
+.btn-print{
+	padding:5px;
+	border-radius:2px;
+	border:none;
+	outline:none;
+	background:linear-gradient(119deg, #1ff7c0 0%, #ba740f 100%);
+	font-size:25px;
+	cursor:pointer;
+	color:blue;
+    margin:1px auto;
+	}
+.btn-print:hover{
+	background:green;
+}
+
+.material-symbols-outlined:hover{
+	background:green;
 }
 #status {
   width: 90%;
