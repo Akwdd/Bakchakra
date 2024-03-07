@@ -618,7 +618,7 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
 	padding-right:5px;
 	margin-bottom:10px;
 	padding-left:5px;
-	height:400px
+	height:450px
 	}
 .notice_box ul{
 	overflow:hidden;
@@ -1167,3 +1167,4 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
 .btn-print{font-size:12px}
 .btn{font-size:12px}
 }
+.faceb{height:450px}
