@@ -1097,11 +1097,11 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
 .btn-print{font-size:12px}
 .btn{font-size:12px}
 }
-@media only screen and (min-width: 360px) and (max-width: 400px) { 
+@media only screen and (min-width: 380px) and (max-width: 400px) { 
 .prantik {display:none;}
 .row666 {display:none;}
 .picture6{
-	    width: 300px;
+	    width: 330px;
 		height: 260px;
 }
 #messag{height:250px}
@@ -1110,7 +1110,35 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
 .btn-print{font-size:12px}
 .btn{font-size:12px}
 }
-@media only screen and (min-width: 320px) and (max-width: 360px) { 
+@media only screen and (min-width: 360px) and (max-width: 380px) { 
+.prantik {display:none;}
+
+.picture6{
+	    width: 310px;
+		height: 240px;
+}
+#messag{height:250px}
+
+.pic{height:260px}
+.row666 {display:none;}
+.btn-print{font-size:12px}
+.btn{font-size:12px}
+}
+@media only screen and (min-width: 335px) and (max-width: 360px) { 
+.prantik {display:none;}
+
+.picture6{
+	    width: 290px;
+		height: 240px;
+}
+#messag{height:250px}
+
+.pic{height:260px}
+.row666 {display:none;}
+.btn-print{font-size:12px}
+.btn{font-size:12px}
+}
+@media only screen and (min-width: 320px) and (max-width: 335px) { 
 .prantik {display:none;}
 
 .picture6{
