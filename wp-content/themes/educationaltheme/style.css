@@ -1124,6 +1124,7 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
 .btn-print{font-size:12px}
 .btn{font-size:12px}
 }
+
 @media only screen and (min-width: 335px) and (max-width: 360px) { 
 .prantik {display:none;}
 
