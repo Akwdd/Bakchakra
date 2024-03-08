@@ -419,6 +419,7 @@
 										
 																						
 											<form action="pdf.php" class="form-horizontal frm-submit-data" enctype="multipart/form-data" method="POST" accept-charset="utf-8">												          
+													<div class="row">
 													<div   class="col-md-6">
 															<div class="form-group">
 																<label>প্রতিষ্ঠানের নাম  <span class="required">*</span></label>
@@ -437,8 +438,8 @@
 																<span class="error"></span>
 															</div>
 														</div>
-													
-												
+													</div>
+												<div class="row">
 													    <div class="col-md-4" >
 																<div class="form-group">
 																	<label class="control-label"> বিভাগ <span class="required">*</span></label>
@@ -492,9 +493,9 @@
 																</div>
 															</div>		
 															
-														
+														</div>	
 												     
-													   
+													  
 												<div class="row">
 													<div class="col-md-4">
 														<div class="form-group">
@@ -534,14 +535,14 @@
 													</div>
 												</div>
 											<div class="row">
-														<div class="col-md-4"">
+														<div class="col-md-4">
 																<div class="form-group">
 																	<label class="control-label">মাতৃভাষা </label>
 																	<input type="text" class="form-control" name="mother_tongue" value=""  name="mothert" required />
 																	<span class="error"></span>
 																</div>
 														</div>
-															<div class="col-md-4"">
+															<div class="col-md-4">
 																<div class="form-group">
 																	<label class="control-label">ধর্ম <span class="required">*</span></label>
 																	<input type="text" class="form-control" name="religion" value="" name="relegian" required  />
@@ -550,8 +551,8 @@
 															</div>
 															
 												</div>
-															
-											
+														
+											<div class="row">
 													<div class="col-md-6">
 														<div class="form-group">
 															<label for="father_name">পিতার নাম <span class="required">*</span></label>
@@ -566,6 +567,8 @@
 																		<span class="error"></span>
 																	</div>
 																</div>
+																</div>
+																<div class="row">
 																<div class="col-md-6">
 																	<div class="form-group">
 																		<label class="control-label">পিতার মোবাইল নং <span class="required">*</span></label>
@@ -580,9 +583,9 @@
 																		<span class="error"></span>
 																	</div>
 																</div>
-											
+											</div>
 
-																									
+														<div class="row">											
 													
 												
 														<div class="col-md-6">
@@ -600,13 +603,11 @@
 																</div>
 														</div>
 													
-													
-														 
+													</div>
+														
 													<br><br>
 												
-														<div class="col-md-6">
-													<button type="submit" class="btn btn-1" data-loading-text="" name="resistration"> জমা দিন </button> 
-													</div>
+														
 													<div style="text-align:right" class="col-md-6"> 
 													<button  class="btn-print" type="button" onclick="print()">
 													<span  class="material-symbols-outlined">প্রিন্ট করুন</span></button>
@@ -615,7 +616,7 @@
 													btnPrint.addEvantListener("click", () => window.print());
 													</script>
 													</div>
-												 
+												
 													
 											</form> 
 										</div><br><br>
