@@ -478,9 +478,9 @@
 																	<div style="border:1px solid black; height:150px; width:150px; background:white;margin:0 auto">
 																		<img src="./images/image.jpg" style="background-color:#43b3ff;margin:0 auto;"  id ="profile-pic" width="150px" height="160px" />
 																	
-																	<input style="display:none;height:150px ;width:150px" type="file"  id="input-file" accept="image/jpeg, image/jpg, image/png"  style="" required />
+																	<input style="display:none;height:150px ;width:150px;" type="file"  id="input-file" accept="image/jpeg, image/jpg, image/png"  style="" required />
 																	</div>
-																	<label for="input-file" style="display:block;cursor:pointer;background-color:#43b3ff;margin:0 auto;width:150px; border:1px solid blue;padding:5px;position:center;text-align:center">ছবি </label>
+																	<label for="input-file" style="display:block;cursor:pointer;background-color:#43b3ff;margin:0 auto;width:150px; border:1px solid blue;padding:5px;position:center;text-align:center;">ছবি </label>
 																	
 																	<script>
 																	let profilePic = document.getElementById("profile-pic");
@@ -608,9 +608,9 @@
 													<br><br>
 												
 														
-													<div style="text-align:right" class="col-md-6"> 
-													<button  class="btn-print" type="button" onclick="print()">
-													<span  class="material-symbols-outlined">প্রিন্ট করুন</span></button>
+													<div style="text-align:center" > 
+													<button style="font-size:20px;padding:5px;border-radius:45px" class="btn-print" type="button" onclick="print()">
+													<span  style="font-size:20px;padding:5px;border-radius:45px" class="material-symbols-outlined">প্রিন্ট করুন</span></button>
 													<script>
 													const btnPrint = document.querySelector(".btn-print");
 													btnPrint.addEvantListener("click", () => window.print());
