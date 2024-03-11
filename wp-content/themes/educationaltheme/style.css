@@ -1006,18 +1006,13 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
 	background-color:black;
 	position:relative;
 	overflow:hidden;
-	height:464px
-}
-#jssor_1{
-	width:806px;
-	padding-left:10px;
-	height:444px;position:relative;
+
 }
 .picleft{
 	float:left;
 	overflow:hidden;
 	position:relative;
-	width:806px
+	width:826px
 }
 #picture1{
 	width:806px;
@@ -1035,22 +1030,56 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
 	
 }
 .josor1{
-	cursor:default;position:relative;top:0px;height:444px;width:806px;left:0px;overflow:hidden;float:left;
+	cursor:default;position:relative;top:0px;height:430px;width:820px;left:0px;overflow:hidden;float:left;
 }
 .picture6{
-	width:806px; height:544px
+	width:820px; height:544px
 }
 .prantik {
 	width:300px;height:300px;float:left;padding-left:20px
 }
 .chair{width:300px;height:413px;float:left;}
-@media only screen and (min-width: 750px) and (max-width: 992px) { 
-.prantik {display:flex;}
-.pict{float:left}
+@media only screen and (min-width: 920px) and (max-width: 992px) { 
+.pic{
+	width:100%;
+	height:480px;
+	background-color:black;
+	position:relative;
+	overflow:hidden;
+
+}
+
+
+.prantik {float:left;}
+.picleft{float:left;}
+.prantik {
+	width:300px;height:300px;float:left;
+}
+.josor1{
+	cursor:default;position:relative;top:0px;height:450px;width:800px;left:0px;overflow:hidden;float:left;
+}
+.picleft{
+	float:left;
+	overflow:hidden;
+	position:relative;
+	width:600px
+}
+.picture6{
+	    width: 800px;
+    height: 440px 
+}
+.main_website {width:100%}
+
+}
+@media only screen and (min-width: 750px) and (max-width: 920px) { 
+.prantik {float:left;width:30%}
+.picleft{float:left;width:60%}
 .picture6{
 	    width: 730px;
     height: 449px 
 }
+
+
 .main_website {width:100%}
 .add5{width:800px}
 }
