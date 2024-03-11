@@ -1046,26 +1046,23 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
 	background-color:black;
 	position:relative;
 	overflow:hidden;
-
 }
-
-
 .prantik {float:left;}
 .picleft{float:left;}
 .prantik {
 	width:300px;height:300px;float:left;
 }
 .josor1{
-	cursor:default;position:relative;top:0px;height:450px;width:800px;left:0px;overflow:hidden;float:left;
+	cursor:default;position:relative;top:0px;height:450px;width:640px;left:0px;overflow:hidden;float:left;
 }
 .picleft{
 	float:left;
 	overflow:hidden;
 	position:relative;
-	width:600px
+	width:640px
 }
 .picture6{
-	    width: 800px;
+	    width: 615px;
     height: 440px 
 }
 .main_website {width:100%}
