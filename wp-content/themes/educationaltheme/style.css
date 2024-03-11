@@ -1039,7 +1039,7 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
 	width:300px;height:300px;float:left;padding-left:20px
 }
 .chair{width:300px;height:413px;float:left;}
-@media only screen and (min-width: 920px) and (max-width: 992px) { 
+@media only screen and (min-width: 950px) and (max-width: 1000px) { 
 .pic{
 	width:100%;
 	height:480px;
@@ -1053,24 +1053,110 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
 	width:300px;height:300px;float:left;
 }
 .josor1{
-	cursor:default;position:relative;top:0px;height:450px;width:640px;left:0px;overflow:hidden;float:left;
+	cursor:default;position:relative;top:0px;height:450px;width:620px;left:0px;overflow:hidden;float:left;
 }
 .picleft{
 	float:left;
 	overflow:hidden;
 	position:relative;
-	width:640px
+	width:620px
 }
 .picture6{
-	    width: 615px;
+	    width: 600px;
     height: 440px 
 }
 .main_website {width:100%}
 
 }
-@media only screen and (min-width: 750px) and (max-width: 920px) { 
-.prantik {float:left;width:30%}
-.picleft{float:left;width:60%}
+@media only screen and (min-width: 935px) and (max-width: 950px) { 
+.pic{
+	width:100%;
+	height:480px;
+	background-color:black;
+	position:relative;
+	overflow:hidden;
+}
+.prantik {float:left;}
+.picleft{float:left;}
+.prantik {
+	width:280px;height:300px;float:left;
+}
+.josor1{
+	cursor:default;position:relative;top:0px;height:450px;width:620px;left:0px;overflow:hidden;float:left;
+}
+.picleft{
+	float:left;
+	overflow:hidden;
+	position:relative;
+	width:620px
+}
+.picture6{
+	    width: 600px;
+    height: 440px 
+}
+.main_website {width:100%}
+
+}
+@media only screen and (min-width: 880px) and (max-width: 935px) { 
+.pic{
+	width:100%;
+	height:480px;
+	background-color:black;
+	position:relative;
+	overflow:hidden;
+}
+.prantik {float:left;}
+.picleft{float:left;}
+.prantik {
+	width:270px;height:300px;float:left;
+}
+.josor1{
+	cursor:default;position:relative;top:0px;height:450px;width:580px;left:0px;overflow:hidden;float:left;
+}
+.picleft{
+	float:left;
+	overflow:hidden;
+	position:relative;
+	width:580px
+}
+.picture6{
+	    width: 560px;
+    height: 440px 
+}
+.main_website {width:100%}
+
+}
+@media only screen and (min-width: 850px) and (max-width: 880px) { 
+.pic{
+	width:100%;
+	height:480px;
+	background-color:black;
+	position:relative;
+	overflow:hidden;
+}
+.prantik {float:left;}
+.picleft{float:left;}
+.prantik {
+	width:270px;height:300px;float:left;
+}
+.josor1{
+	cursor:default;position:relative;top:0px;height:450px;width:560px;left:0px;overflow:hidden;float:left;
+}
+.picleft{
+	float:left;
+	overflow:hidden;
+	position:relative;
+	width:560px
+}
+.picture6{
+	    width: 530px;
+    height: 440px 
+}
+.main_website {width:100%}
+
+}
+@media only screen and (min-width: 750px) and (max-width: 850px) { 
+.prantik {display:none}
 .picture6{
 	    width: 730px;
     height: 449px 
