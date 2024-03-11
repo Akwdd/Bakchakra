@@ -1048,9 +1048,10 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
 .prantik {display:flex;}
 .pict{float:left}
 .picture6{
-	    width: 697px;
+	    width: 730px;
     height: 449px 
 }
+.main_website {width:100%}
 .add5{width:800px}
 }
 @media only screen and (min-width: 702px) and (max-width: 750px) { 
@@ -1061,7 +1062,7 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
 		height: 330px;
 }
 .faceb{width:850px}
-
+.main_website {width:100%}
 }
 @media only screen and (min-width: 602px) and (max-width: 702px) { 
 .prantik {display:none;}
@@ -1072,6 +1073,7 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
 }
 .pic{height:250px}
 .pict{float:left}
+.main_website {width:100%}
 }
 @media only screen and (min-width: 500px) and (max-width: 602px) { 
 .prantik {display:none;}
@@ -1080,6 +1082,7 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
 	    width: 450px;
 		height: 230px;
 }
+.main_website {width:100%}
 .pic{height:250px}
 .pict{float:left}
 }
@@ -1091,6 +1094,7 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
 	    width: 400px;
 		height: 300px;
 }
+.main_website {width:100%}
 #messag{height:250px}
 .pict{float:left}
 .pic{height:360px}
