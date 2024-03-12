@@ -1214,7 +1214,7 @@ h2{
 h2{
 	font-size:20px
 }
-.main_website {width:370px}
+.main_website {width:100%}
 .picture6{
 	    width: 380px;
 		height: 330px;
@@ -1230,7 +1230,7 @@ h2{
 @media only screen and (min-width: 380px) and (max-width: 400px) { 
 .prantik {display:none;}
 .row666 {display:none;}
-.main_website {width:360px}
+.main_website {width:100%}
 .picture6{
 	    width: 260px;
 		height: 240px;
@@ -1249,7 +1249,7 @@ h2{
 h2{
 	font-size:20px
 }
-.main_website {width:350px}
+.main_website {width:100%}
 .picture6{
 	    width: 270px;
 		height: 240px;
@@ -1267,7 +1267,7 @@ h2{
 h2{
 	font-size:20px
 }
-.main_website {width:280px}
+.main_website {width:100%}
 .picture6{
 	    width: 245px;
 		height: 240px;
@@ -1284,7 +1284,7 @@ h2{
 h2{
 	font-size:20px
 }
-.main_website {width:280px}
+.main_website {width:100%}
 .picture6{
 	    width: 245px;
 		height: 240px;
@@ -1301,7 +1301,7 @@ h2{
 h2{
 	font-size:20px
 }
-.main_website {width:270px}
+.main_website {width:100%}
 .picture6{
 	    width: 235px;
 		height: 240px;
@@ -1313,4 +1313,3 @@ h2{
 .btn-print{font-size:12px}
 .btn{font-size:12px}
 }
-
