@@ -993,6 +993,9 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
   color:yellow;
   border-radius: 20px;
 }
+.main_website {width:1200px}
+
+}
 #status.error {
   margin-top: 20px;
   background-color: rgba(6, 58, 71, 0.89);
@@ -1012,10 +1015,10 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
 	float:left;
 	overflow:hidden;
 	position:relative;
-	width:826px
+	width:860px
 }
 #picture1{
-	width:806px;
+	width:850px;
 	padding-left:10px;
 	
 	position:relative;
@@ -1030,16 +1033,16 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
 	
 }
 .josor1{
-	cursor:default;position:relative;top:0px;height:430px;width:820px;left:0px;overflow:hidden;float:left;
+	cursor:default;position:relative;top:0px;height:430px;width:840px;left:0px;overflow:hidden;float:left;
 }
 .picture6{
-	width:820px; height:544px
+	width:840px; height:544px
 }
 .prantik {
 	width:300px;height:300px;float:left;padding-left:20px
 }
 .chair{width:300px;height:413px;float:left;}
-@media only screen and (min-width: 950px) and (max-width: 1000px) { 
+@media only screen and (min-width: 950px) and (max-width: 992px) { 
 .pic{
 	width:100%;
 	height:480px;
@@ -1179,6 +1182,9 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
 @media only screen and (min-width: 602px) and (max-width: 702px) { 
 .prantik {display:none;}
 .row666 {display:none;}
+h2{
+	font-size:20px
+}
 .picture6{
 	    width: 550px;
 		height: 230px;
@@ -1197,17 +1203,24 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
 .main_website {width:100%}
 .pic{height:250px}
 .pict{float:left}
+h2{
+	font-size:20px
+}
 }
 
 @media only screen and (min-width: 400px) and (max-width: 500px) { 
 .prantik {display:none;}
 .row666 {display:none;}
+h2{
+	font-size:20px
+}
 .picture6{
 	    width: 400px;
 		height: 300px;
 }
 .main_website {width:100%}
 #messag{height:250px}
+
 .pict{float:left}
 .pic{height:360px}
 .btn-print{font-size:12px}
@@ -1220,6 +1233,9 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
 	    width: 340px;
 		height: 260px;
 }
+h2{
+	font-size:20px
+}
 #messag{height:250px}
 .pict{float:left}
 .pic{height:260px}
@@ -1228,7 +1244,9 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
 }
 @media only screen and (min-width: 360px) and (max-width: 380px) { 
 .prantik {display:none;}
-
+h2{
+	font-size:20px
+}
 .picture6{
 	    width: 315px;
 		height: 240px;
@@ -1243,7 +1261,9 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
 
 @media only screen and (min-width: 335px) and (max-width: 360px) { 
 .prantik {display:none;}
-
+h2{
+	font-size:20px
+}
 .picture6{
 	    width: 300px;
 		height: 240px;
@@ -1257,7 +1277,9 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
 }
 @media only screen and (min-width: 320px) and (max-width: 335px) { 
 .prantik {display:none;}
-
+h2{
+	font-size:20px
+}
 .picture6{
 	    width: 280px;
 		height: 240px;
@@ -1271,7 +1293,9 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
 }
 @media only screen and (min-width: 300px) and (max-width: 320px) { 
 .prantik {display:none;}
-
+h2{
+	font-size:20px
+}
 .picture6{
 	    width: 260px;
 		height: 230px;
