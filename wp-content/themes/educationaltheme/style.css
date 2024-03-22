@@ -413,7 +413,7 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
 .scrool_2{
 	padding:6px!important;
 	background:#EDEDED!important;
-	font-size:3px!important;
+	font-size:13px!important;
 }
 .scrool_2 a{
 	color:#1A57B7;
@@ -1216,7 +1216,7 @@ h2{
 }
 .main_website {width:100%}
 .picture6{
-	    width: 380px;
+	    width: 400px;
 		height: 330px;
 }
 .main_website {width:100%}
